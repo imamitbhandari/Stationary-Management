@@ -1,0 +1,7 @@
+E:\AMIT STATIONARY MANAGEMENT PROJECT\statinoryproject\statinoryproject\bin\Debug\statinoryproject.exe
+E:\AMIT STATIONARY MANAGEMENT PROJECT\statinoryproject\statinoryproject\bin\Debug\statinoryproject.pdb
+E:\AMIT STATIONARY MANAGEMENT PROJECT\statinoryproject\statinoryproject\obj\x86\Debug\statinoryproject.Properties.Resources.resources
+E:\AMIT STATIONARY MANAGEMENT PROJECT\statinoryproject\statinoryproject\obj\x86\Debug\statinoryproject.csproj.GenerateResource.Cache
+E:\AMIT STATIONARY MANAGEMENT PROJECT\statinoryproject\statinoryproject\obj\x86\Debug\statinoryproject.exe
+E:\AMIT STATIONARY MANAGEMENT PROJECT\statinoryproject\statinoryproject\obj\x86\Debug\statinoryproject.pdb
+E:\AMIT STATIONARY MANAGEMENT PROJECT\statinoryproject\statinoryproject\obj\x86\Debug\statinoryproject.csprojResolveAssemblyReference.cache
